@@ -19,7 +19,7 @@ public class Alternative
         foreach (var criterion in criteria)
         {
             double value = CriteriaValues[criterion.Name];
-            value = criterion.IsMaximization ? value : 1.0 - value;
+            // value = criterion.IsMaximization ? value : 1.0 - value;
             FitnessValue += criterion.Weight * value;
         }
 

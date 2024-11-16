@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:firefly_multimodal_optimization"
         mc:Ignorable="d"
-        Title="Firefly Optimization" Height="500" Width="800">
+        Title="Firefly Optimization" Height="600" Width="950">
     <!-- <Window.Resources> -->
     <!--     ~1~ Стиль для TextBox з плейсхолдером @1@ -->
     <!--     <Style TargetType="TextBox"> -->
